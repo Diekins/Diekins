@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/joseguilhermeti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Cisco%20NetAcad-7%20cursos-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco NetAcad">
   <img src="https://img.shields.io/badge/Open%20to%20work-✔-2ea44f?style=for-the-badge" alt="Open to work">
 </p>
@@ -75,7 +75,6 @@ Em paralelo, **administro e desenvolvo um servidor de jogo online** numa VPS Lin
 | 🎮 [**RADIKAL Roleplay**](https://github.com/Diekins/radikal-roleplay) | Servidor de GTA V roleplay (FiveM) em produção numa VPS Linux | deploy com rollback, MySQL, segurança no servidor, suporte aos jogadores |
 | 🎬 [**Vicutra**](https://github.com/Diekins/vicutra) | App desktop que gera vídeos curtos com IA rodando na GPU do usuário | Supabase, pagamentos com webhook idempotente, auto-update |
 | 🧙 [**Arcane Voyage**](https://github.com/Diekins/arcane-voyage) | RPG em Godot 4 para PC e Android | save atômico, servidor autoritativo, testes automatizados |
-| 🔐 [**Gerador de Senhas**](https://github.com/Diekins/Gerador-de-Senhas) | CLI em Python com `secrets` e cálculo de entropia | 13 testes, CI no GitHub Actions |
 
 ---
 
